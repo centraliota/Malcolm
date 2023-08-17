@@ -2,11 +2,13 @@ apache2-utils
 ca-certificates
 curl
 ethtool
+hostapd
 htpdate
 iproute2
 iputils-arping
 iputils-ping
 iputils-tracepath
+iw
 libcurl4
 libmmdb2-0
 libpcap0.8
